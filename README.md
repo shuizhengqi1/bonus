@@ -1,6 +1,6 @@
 ## 业务流程图
 
-在上面一个文件里面
+![红包电饭锅](http://ww4.sinaimg.cn/large/0060lm7Tly1fn8end0at9j30ed0dkmxs.jpeg)
 
 
 

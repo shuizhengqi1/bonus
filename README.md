@@ -1,6 +1,6 @@
 ## 业务流程图
 
-![红包电饭锅](https://ceshi-1255768919.cos.ap-chengdu.myqcloud.com/1b694658d65d66aee3ea0fec15b716f0.jpeg)
+![红包电饭锅](https://ceshi-1255768919.cos.ap-chengdu.myqcloud.com/%E7%BA%A2%E5%8C%85%E7%94%B5%E9%A5%AD%E9%94%85.svg)
 
 
 

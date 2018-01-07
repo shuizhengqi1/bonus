@@ -17,7 +17,7 @@ def print_content(msg):
 
 @itchat.msg_register([SHARING])
 def postTicket(msg):
-    group = itchat.search_chatrooms(name=u'外卖红包直领群')
+    group = itchat.search_chatrooms(name=u'外卖红包直领群')   ##这个只是我手机上面的群名称，具体的itchat使用可以查看itchat的文档
     header_dict = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko',
                    "Content-Type": "application/json"}
     data = {'Title':msg['Text'],'shareUserName':msg['FromUserName'],'Url':msg['Url'],'Tid':msg['MsgId']}
